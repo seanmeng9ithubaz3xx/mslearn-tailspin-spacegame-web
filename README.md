@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/az300forseanmeng/az300forseanmeng/_apis/build/status/seanmeng9ithubaz3xx.pipelines-java?branchName=master)](https://dev.azure.com/az300forseanmeng/az300forseanmeng/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
